@@ -25,29 +25,25 @@
 ---
 
 ## 📌 Featured Projects
-<p align="center">
-  <a href="https://github.com/asachs01/float-mcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asachs01&repo=float-mcp&theme=github_dark" />
-  </a>
-  <a href="https://github.com/asachs01/school_menu_connector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asachs01&repo=school_menu_connector&theme=github_dark" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/asachs01/smtp-edc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asachs01&repo=smtp-edc&theme=github_dark" />
-  </a>
-  <a href="https://github.com/asachs01/propublica-mcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asachs01&repo=propublica-mcp&theme=github_dark" />
-  </a>
-</p>
+| Project | Description |
+|---------|-------------|
+| [**float-mcp**](https://github.com/asachs01/float-mcp) | MCP server to run Claude code seamlessly |
+| [**school_menu_connector**](https://github.com/asachs01/school_menu_connector) | Connects school menus to external services |
+| [**smtp-edc**](https://github.com/asachs01/smtp-edc) | SMTP debugging utility (Your Everyday Carry for SMTP Debugging) |
+| [**propublica-mcp**](https://github.com/asachs01/propublica-mcp) | MCP server for ProPublica APIs |
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asachs01&show_icons=true&theme=github_dark" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asachs01&layout=compact&theme=github_dark" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asachs01&theme=github_dark" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asachs01&theme=github_dark" alt="GitHub Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asachs01&theme=github_dark" alt="Top Languages by Repo" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asachs01&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
 
 ---
